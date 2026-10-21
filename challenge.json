@@ -1,0 +1,7 @@
+{
+  "id": "issue-tracker",
+  "title": "Mini Issue Tracker",
+  "difficulty": "intermediate",
+  "starterOnly": true,
+  "privateTestsExcluded": true
+}
